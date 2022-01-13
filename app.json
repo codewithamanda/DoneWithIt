@@ -4,9 +4,9 @@
     "slug": "DoneWithIt",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/logo-red.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/background.jpg",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
