@@ -1,7 +1,11 @@
 import React from 'react';
-import { StyleSheet, View} from 'react-native';
-import ViewImageScreen from './src/components/ViewImageScreen';
-import WelcomeScreen from './src/components/WelcomeScreen';
+import { StyleSheet, View } from 'react-native';
+
+import WelcomeScreen from './src/screens/WelcomeScreen';
+import Card from './src/components/Card';
+import ListingDetailsScreen from './src/screens/ListingDetailsScreen';
+import ViewImageScreen from './src/screens/ViewImageScreen';
+
 
 export default function App() {
   return (
@@ -9,6 +13,4 @@ export default function App() {
   );
 }
 
-const styles = StyleSheet.create({
 
-});
